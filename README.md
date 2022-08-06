@@ -10,4 +10,4 @@ A verseny három napos volt, és a feladatokat is három részletben tették el�
 
 Az ilyen versenyeken megszokott módon a kommunikáció [Discordon](https://discord.com)on keresztül zajlott.
 
-Itt gyűjtöttem össze néhány megoldásomat, de mivel az egyik versenytárs készített egy [teljes writeupot](HCSC22Writeup.pdf) is, sok értelmét nem látom a részletesebb kifejtésnek.
+Itt gyűjtöttem össze néhány megoldásomat, de mivel az egyik versenytárs készített egy [teljes writeupot](HCSC22_Writeup.pdf) is, sok értelmét nem látom a részletesebb kifejtésnek.
