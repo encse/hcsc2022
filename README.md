@@ -1,6 +1,6 @@
 # HCSC 2022 CTF
 
-A [Cyber Security Challenge](https://ecsc.eu/) egy évente megrendezett európai CTF verseny, ennek magyar előválogatója a HCSC. 2022-ben én is megpróbáltam. Már kiöregedtem a rendes mezőnyből, de volt egy összesített eredménylista, amin életkortól függetlenül indulhatott akárki, szóval gyakorlolni, tanulni is jó volt.
+A [Cyber Security Challenge](https://ecsc.eu/) egy évente megrendezett európai CTF verseny, ennek magyar előválogatója a HCSC. 2022-ben én is megpróbáltam. Már kiöregedtem a rendes mezőnyből, de volt egy összesített kategória, amin életkortól függetlenül indulhatott akárki, szóval gyakorlolni, tanulni is jó volt.
 
 A magyar fordulót a [Nemzeti Kibervédelmi Intézet](https://nki.gov.hu/) rendezi minden évben, azzal a nem titkolt céllal, hogy utánpótlást találjanak maguknak.
 
